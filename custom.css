@@ -1,0 +1,133 @@
+@media (min-width:1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+/* text colors */
+.text-dark-custom {
+    color: #3a3a47!important;
+}
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+.text-light-grey-custom {
+    color: #818198!important;
+}
+.text-dark-blue-custom {
+    color: #383b61!important;
+}
+.text-blue-custom {
+    color: #3498db!important;
+}
+.text-green-custom {
+    color: #21bf73!important;
+}
+/* background colors */
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+/* buttons style */
+.btn {
+    padding: 0 20px;
+    line-height: 38px;
+}
+.btn-blue-custom {
+    border: 2px solid #3498db;
+    color: #3498db;
+}
+.btn-blue-custom:hover {
+    background-color: #3498db;
+    color: #ffffff;
+}
+.btn-success-custom {
+    border: 2px solid #21bf73;
+    background-color: #21bf73;
+    color: #ffffff;
+}
+.btn-success-custom:hover {
+    border: 2px solid #21bf73;
+    color: #21bf73;
+}
+/* form control */
+.form-control-custom {
+    color: #222222;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 400;
+    height: 45px;
+    border: 0;
+    border-radius: 10px 0 0 10px;
+    background-color: #f0f5f8;
+    outline: none;
+    padding-left: 20px;
+}
+/* font-family */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat';
+}
+
+/* navigation */
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: #757575;
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+/* home */
+.home {
+    padding: 150px 0 100px 0;
+}
+/* about */
+.about-card-1 {
+    background-color: #fff2e5;
+}
+.about-card-2 {
+    background-color: #F8F9FA;
+}
+.about-card-3 {
+    background-color: #f0f5f9;
+}
+.about-card-img {
+    width: 80px;
+}
+/* feature */
+.feature {
+    background-color: #f0f5f9;
+}
+.feature-container {
+    background-attachment: #f0f5f9;
+}
+/* result */
+.result-cards-img {
+    width: 80px;
+}
+/* reviews */
+.reviews-container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+.svg-img {
+    width: 60px;
+}
+.carousel-img {
+    width: 80px;
+}
+/* pricing */
+.pricing-card {
+    background-color: #f0f5f9;
+}
+.pricing-card-img {
+    width: 120px;
+}
+/* faq */
+.faq-container {
+    background-color: #f0f5f9;
+    padding: 80px 80px;
+}
